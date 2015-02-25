@@ -9,4 +9,5 @@ Usage:
 $python ResultsScraper.py
 
 Architecture, Chemical, Civil, CSE, ECE, EEE, ICE, Mechanical, MME, Production
+
 Enter the branch to fetch the results from: 
